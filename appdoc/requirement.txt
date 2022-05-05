@@ -1,0 +1,17 @@
+flask==2.1.1	
+wheel==	0.37.1
+werkzeug==2.1.2
+waitress==2.1.1
+pyyaml== 5.3.1
+zipp==	3.7.0	
+h5py==2.10.0		
+jinja2	==3.0.3	
+joblib	==1.1.0
+sumolib == 1.12.0	
+matplotlib==	3.5.1	
+notebook	==6.4.8	
+numpy	== 1.18.5	
+pandas	==1.4.1	
+requests==	2.24.0
+tensorflow==	2.3.0	
+tensorflow-gpu ==	2.3.0	
